@@ -1,0 +1,9 @@
+dist/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.zip
+*.previous.exe
+*.new.exe
