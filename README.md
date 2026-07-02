@@ -17,7 +17,7 @@ This project is not affiliated with or endorsed by the sing-box project.
 
 ## Quick Start
 
-Download a built artifact from GitHub Actions, or build locally:
+Download `SingBoxTray-windows.zip` from the latest GitHub Release, or build locally:
 
 ```powershell
 .\scripts\build.ps1
